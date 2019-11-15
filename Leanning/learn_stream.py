@@ -1,7 +1,7 @@
 '''
 @Author: your name
 @Date: 2019-11-13 13:38:25
-@LastEditTime: 2019-11-13 14:00:39
+@LastEditTime: 2019-11-15 22:33:03
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: /parse/streamlittutorial.py
@@ -41,7 +41,7 @@ def show_pbar():
     '''
     显示进度条
     '''
-
+    
     latest_iteration = st.empty()
     bar = st.progress(0)
 
